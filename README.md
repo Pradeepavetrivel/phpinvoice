@@ -1,2 +1,2 @@
 # phpinvoice
-Generating a invoice in zoho creator and make a pdf using Puppeeter.
+Generating a invoice in zoho creator.
